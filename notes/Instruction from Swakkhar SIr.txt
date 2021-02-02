@@ -1,6 +1,0 @@
-1. Where do I stand in terms of dataset
-2. Can I try transfer learning
-3. Rest Net and other pretrained models
-4. Ensemble
-
-
